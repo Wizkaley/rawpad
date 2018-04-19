@@ -1,0 +1,30 @@
+body{
+  padding-top:120px;
+  font-family: Arial;
+}
+
+.container{
+  width:500px;
+  margin:0 auto;
+}
+
+a:link,a:visited{
+  color:slateGray;
+  text-decoration:none;
+  border-bottom: 1px dotted slateGray;
+}
+
+a:hover{
+  color:#123;
+  border-bottom-color:slateGray;
+}
+
+small{
+  color:green;
+  font-style: italic;
+}
+
+p{
+
+  line-height: 30px;
+}
